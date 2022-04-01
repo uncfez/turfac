@@ -1,7 +1,8 @@
 ---
 title: "Välkommen till årets första turfträff!"
 date: 2020-01-05
-authors: WombaWomba
+authors: 
+  - WombaWomba
 categories: 
   - "okategoriserade"
 tags: 
