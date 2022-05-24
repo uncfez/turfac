@@ -12,7 +12,7 @@ tags:
 - turfträff
 - umeå
 image: 
-  "/images/tn.png"
+- "/images/tn.png"
   caption: 'Foto: WombaWomba'
 
 ---
