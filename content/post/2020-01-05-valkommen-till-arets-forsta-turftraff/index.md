@@ -2,9 +2,7 @@
 title: Välkommen till årets första turfträff!
 date: 2020-01-05
 featured_image: "/images/tn.png"
-authors:
-- WombaWomba
-- linkaz
+authors: WombaWomba
 categories:
 - okategoriserade
 tags:
