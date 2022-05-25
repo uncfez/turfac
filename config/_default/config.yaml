@@ -5,6 +5,7 @@
 
 title: Wowchemy Research Group # Website name
 baseURL: 'https://example.com/' # Website URL
+cloudinary_base_url: https://res.cloudinary.com/turfvb
 
 ############################
 ## LANGUAGE
