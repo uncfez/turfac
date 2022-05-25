@@ -1,7 +1,7 @@
 ---
 title: Välkommen till årets första turfträff!
 date: 2020-01-05
-featured_image: "assets/media/coders.jpg"
+featured_image: assets/media/coders.jpg
 authors: 
 - WombaWomba
 categories:
