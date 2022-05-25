@@ -11,7 +11,7 @@ tags:
 - föreningsinformation
 - turfträff
 - umeå
-image: "turfac/images/tn.png"
+image: 
   caption: 'Foto: WombaWomba'
 
 ---
