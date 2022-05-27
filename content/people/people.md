@@ -16,18 +16,11 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Ordförande
-  - Vice ordförande
-  - Sekreterare
-  - Kassör och medlemsansvarig
-  - Ordinarie ledamöter
-  - Suppleanter
-  - Webbansvariga
-  - Revisor
-  - Revisorssuppleant
-  - Valberedning
+  - Styrelse
+  - Övriga föreningsuppdrag
+
 design:
-  show_interests: false
-  show_role: true
+  show_interests: true
+  show_role: false
   show_social: true
 ---
