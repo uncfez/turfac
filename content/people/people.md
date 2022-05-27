@@ -16,12 +16,16 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigators
-    - Researchers
-    - Grad Students
-    - Administration
-    - Visitors
-    - Alumni
+  - Ordförande
+  - Vice ordförande
+  - Sekreterare
+  - Kassör och medlemsansvarig
+  - Ordinarie ledamöter
+  - Suppleanter
+  - Revisor
+  - Revisorssuppleant
+  - Valberedning
+  - Webbansvariga
 design:
   show_interests: false
   show_role: true
