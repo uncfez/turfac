@@ -4,7 +4,7 @@ title: Admin
 
 # Username (this should match the folder name)
 authors:
-- linkaz
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,17 +21,17 @@ superuser: true
 bio: Bara en zon till...
 
 # Interests (displayed on author's page)
-interests:
-  - Ordförande
-  - Vice ordförande
-  - Sekreterare
-  - Kassör och medlemsansvarig
-  - Ordinarie ledamot
-  - Suppleant
-  - Revisor
-  - Revisorssuppleant
-  - Valberedning
-  - Webbansvarig
+#interests:
+#  - Ordförande
+#  - Vice ordförande
+#  - Sekreterare
+#  - Kassör och medlemsansvarig
+#  - Ordinarie ledamot
+#  - Suppleant
+#  - Revisor
+#  - Revisorssuppleant
+#  - Valberedning
+#  - Webbansvarig
 
 # education:
 #  courses:
@@ -71,8 +71,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Styrelse
-  - Övriga föreningsuppdrag
+#  - Styrelse
+#  - Övriga föreningsuppdrag
 ---
 
 Man ångrar aldrig en turftur!
