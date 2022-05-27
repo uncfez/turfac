@@ -22,10 +22,10 @@ content:
   - Kassör och medlemsansvarig
   - Ordinarie ledamöter
   - Suppleanter
+  - Webbansvariga
   - Revisor
   - Revisorssuppleant
   - Valberedning
-  - Webbansvariga
 design:
   show_interests: false
   show_role: true
