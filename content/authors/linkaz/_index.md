@@ -43,7 +43,7 @@ interests:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Styrelse
-  - Övriga föreningsuppdrag
+#  - Övriga föreningsuppdrag
 ---
 
 Man ångrar aldrig en turftur!
